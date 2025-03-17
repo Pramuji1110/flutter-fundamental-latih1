@@ -1,7 +1,7 @@
 # hello_world
 
 A new Flutter project.
-![Screenshoot Hello_World](image/indra01.png)
+![Screenshoot Hello_World](images/indra01.png)
 
 text widget
-![Screenshoot Hello_World](image/indra02.png)
+![Screenshoot Hello_World](images/indra02.png)
