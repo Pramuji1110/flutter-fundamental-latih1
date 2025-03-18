@@ -7,3 +7,6 @@ Praktikum3
 Praktikum4
 ![Screenshoot Hello_World](images/03.png)
 ![Screenshoot Hello_World](images/indra04.png)
+Praktikum5
+![Screenshoot Hello_World](images/indra04.png)
+
