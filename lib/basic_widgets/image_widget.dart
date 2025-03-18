@@ -6,7 +6,7 @@ class MyImageWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Image(
-      image: AssetImage("assets/Logo.png")
+      image: AssetImage("assets/logo.jpg")
     );
   }
 }

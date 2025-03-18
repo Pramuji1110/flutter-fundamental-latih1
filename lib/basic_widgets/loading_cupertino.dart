@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-
 class MyWidget extends StatelessWidget {
   const MyWidget({super.key});
 
@@ -22,5 +21,6 @@ class MyWidget extends StatelessWidget {
       ),
     );
 
+    return const Placeholder();
   }
 }

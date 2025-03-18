@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Ahmad Indra Pramuji'),
     );
   }
 }
@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const MyWidget(),
+            const MyImageWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
